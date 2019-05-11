@@ -1,8 +1,8 @@
-# test
+# 立案服务
 
-> 立案服务
+> 运城市人民法院-立案服务
 
-![演示](video.mp4)
+![演示图](screenshots/1.gif)
 
 #### Build Setup
 
@@ -13,11 +13,7 @@ npm install
 # serve with hot reload at localhost:9080
 npm run dev
 
-# build electron application for production
+# build electron application for production Windows or Mac
 npm run build
-
-
-# lint all JS/Vue component files in `src/`
-npm run lint
 
 ```
